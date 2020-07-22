@@ -4,6 +4,6 @@
 
 <img src="CalculatorFun.png">
 
-Multifunctional calculator capable of many functions. With memory functionality as well. 
+Multifunctional calculator capable of many functions. 
 
 ## Jamie Vullo - Full-Stack Software Engineer - www.jamievullo.com
