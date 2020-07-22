@@ -2,7 +2,7 @@
 
 # Classic Calculator application using Javascript, HTML, and CSS
 
-<img src="Calculator.png"/>
+<img src="CalculatorFun.png">
 
 Multifunctional calculator capable of many functions. With memory functionality as well. 
 
